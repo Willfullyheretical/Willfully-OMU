@@ -3924,3 +3924,11 @@ Entries:
       message: Removed fun. (Removed the combat shells from the RGL)
   id: 497
   time: '2026-05-10T00:14:53.0000000+00:00'
+- author: Mariki
+  changes:
+    - type: Tweak
+      message: Vox can now choose from more colors!
+    - type: Fix
+      message: Feroxi sprites on the customization screen fixed
+  id: 498
+  time: '2026-05-10T00:20:11.0000000+00:00'
