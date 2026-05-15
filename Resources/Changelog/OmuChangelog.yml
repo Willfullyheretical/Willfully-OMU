@@ -4028,3 +4028,11 @@ Entries:
         at random.
   id: 511
   time: '2026-05-15T05:42:23.0000000+00:00'
+- author: Thesia000
+  changes:
+    - type: Fix
+      message: >-
+        ajusted Syndicate thaven rapier damage values, changes where demanded on
+        initial but not adressed
+  id: 512
+  time: '2026-05-15T05:42:59.0000000+00:00'
