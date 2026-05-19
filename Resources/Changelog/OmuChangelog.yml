@@ -4104,3 +4104,9 @@ Entries:
         table salt (320k->520k.
   id: 520
   time: '2026-05-18T20:14:53.0000000+00:00'
+- author: raincall
+  changes:
+    - type: Add
+      message: Space ninja entry in the training manuals
+  id: 521
+  time: '2026-05-19T16:10:41.0000000+00:00'
