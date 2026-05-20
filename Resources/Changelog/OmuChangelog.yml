@@ -4126,3 +4126,9 @@ Entries:
         5 instead of 8
   id: 523
   time: '2026-05-20T15:29:20.0000000+00:00'
+- author: Marikiii
+  changes:
+    - type: Add
+      message: Staff (and some non) plushies! Check your trinket loadout!
+  id: 524
+  time: '2026-05-20T15:43:53.0000000+00:00'
