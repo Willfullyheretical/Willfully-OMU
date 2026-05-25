@@ -4226,3 +4226,11 @@ Entries:
         art rotation
   id: 539
   time: '2026-05-25T00:03:43.0000000+00:00'
+- author: 3PonPon3
+  changes:
+    - type: Tweak
+      message: >-
+        Increased the Head (Top) marking limit for Shadowkin, Oni and Chitinids
+        from 1 to 6.
+  id: 540
+  time: '2026-05-25T01:06:33.0000000+00:00'
