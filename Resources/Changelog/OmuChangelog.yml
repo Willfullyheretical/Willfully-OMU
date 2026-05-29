@@ -4252,3 +4252,9 @@ Entries:
       message: BSOMace can now be used by Pacifists
   id: 542
   time: '2026-05-27T18:01:23.0000000+00:00'
+- author: CliveOcelot
+  changes:
+    - type: Add
+      message: Ported Cyan alert from Funky
+  id: 543
+  time: '2026-05-29T11:46:43.0000000+00:00'
