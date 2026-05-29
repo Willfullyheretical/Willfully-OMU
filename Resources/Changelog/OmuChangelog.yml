@@ -4270,3 +4270,11 @@ Entries:
       message: Fixed bingles being unable to take ion damage.
   id: 545
   time: '2026-05-29T12:06:26.0000000+00:00'
+- author: archee1
+  changes:
+    - type: Fix
+      message: >-
+        All species now accurately get bloodied from brute damage in their
+        respective blood's colour
+  id: 546
+  time: '2026-05-29T12:12:22.0000000+00:00'
