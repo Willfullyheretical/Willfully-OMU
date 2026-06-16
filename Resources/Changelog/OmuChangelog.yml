@@ -4547,3 +4547,11 @@ Entries:
       message: You can blend sticks of butter for liquid butter now
   id: 583
   time: '2026-06-15T00:25:25.0000000+00:00'
+- author: archee1
+  changes:
+    - type: Fix
+      message: >-
+        Box'es mail loop should not have mail getting stuck inside it anymore,
+        and its Sec disposals is now properly reroute protected.
+  id: 584
+  time: '2026-06-16T07:03:23.0000000+00:00'
