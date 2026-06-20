@@ -4644,3 +4644,11 @@ Entries:
       message: 'Added a new map: Crystal Station'
   id: 597
   time: '2026-06-20T21:27:19.0000000+00:00'
+- author: ishkab
+  changes:
+    - type: Fix
+      message: >-
+        Added owner-executable permissions to the build and run shell scripts.
+        This does not impact anything in-game.
+  id: 598
+  time: '2026-06-20T21:30:55.0000000+00:00'
