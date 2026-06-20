@@ -4632,3 +4632,9 @@ Entries:
         hours
   id: 595
   time: '2026-06-20T21:10:47.0000000+00:00'
+- author: archee1
+  changes:
+    - type: Tweak
+      message: Abductor's EMP glands have less range potency and effect duration
+  id: 596
+  time: '2026-06-20T21:13:59.0000000+00:00'
