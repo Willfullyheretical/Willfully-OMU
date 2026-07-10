@@ -4832,3 +4832,9 @@ Entries:
       message: the mini gravity generator now weighs a realistic amount.
   id: 625
   time: '2026-07-10T21:57:18.0000000+00:00'
+- author: TheGoatSinofIust
+  changes:
+    - type: Add
+      message: Added a new lobby background by ABloodSmiler
+  id: 626
+  time: '2026-07-10T22:05:47.0000000+00:00'
