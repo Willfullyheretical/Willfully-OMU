@@ -4838,3 +4838,9 @@ Entries:
       message: Added a new lobby background by ABloodSmiler
   id: 626
   time: '2026-07-10T22:05:47.0000000+00:00'
+- author: TheGoatSinofIust
+  changes:
+    - type: Tweak
+      message: Changed moth wings to be under Wings marking.
+  id: 627
+  time: '2026-07-10T22:11:13.0000000+00:00'
