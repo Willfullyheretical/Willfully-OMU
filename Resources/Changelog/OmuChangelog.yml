@@ -4810,3 +4810,9 @@ Entries:
       message: Added Miku option for musician - Hatscale Miku
   id: 622
   time: '2026-07-10T21:48:04.0000000+00:00'
+- author: archee1
+  changes:
+    - type: Tweak
+      message: cargo's SMES farming has been nerfed to 1/3rd of what it was before.
+  id: 623
+  time: '2026-07-10T21:49:19.0000000+00:00'
