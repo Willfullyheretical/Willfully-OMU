@@ -4934,3 +4934,9 @@ Entries:
       message: Ported the AAC tablet from Imp/DeltaV
   id: 640
   time: '2026-07-11T17:45:56.0000000+00:00'
+- author: Willzile1
+  changes:
+    - type: Add
+      message: 'Deathsquad gets a new shuttle: the Terminatus “Courier.”'
+  id: 641
+  time: '2026-07-11T17:46:23.0000000+00:00'
