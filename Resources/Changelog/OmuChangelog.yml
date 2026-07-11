@@ -4984,3 +4984,9 @@ Entries:
       message: Implemented previously missing envirosuit to Administrative Assistant.
   id: 646
   time: '2026-07-11T18:20:23.0000000+00:00'
+- author: feistyfedora
+  changes:
+    - type: Tweak
+      message: Ported funky-station's RussianAccent
+  id: 647
+  time: '2026-07-11T18:23:01.0000000+00:00'
