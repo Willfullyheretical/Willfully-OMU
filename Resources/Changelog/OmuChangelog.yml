@@ -4876,3 +4876,9 @@ Entries:
       message: Fixed a CTD on the SM monitoring console
   id: 632
   time: '2026-07-11T17:02:23.0000000+00:00'
+- author: harryhulse12-alt
+  changes:
+    - type: Tweak
+      message: Changed ling stings to now work with food/drink
+  id: 633
+  time: '2026-07-11T17:07:01.0000000+00:00'
