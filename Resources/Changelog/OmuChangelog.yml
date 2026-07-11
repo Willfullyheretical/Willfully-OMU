@@ -4990,3 +4990,12 @@ Entries:
       message: Ported funky-station's RussianAccent
   id: 647
   time: '2026-07-11T18:23:01.0000000+00:00'
+- author: Duuckie
+  changes:
+    - type: Tweak
+      message: >-
+        Chemist, Doctor/Intern, and Chief Medical Officer SOPs received small
+        updates, including increased leniency for Chemists and notes on when
+        healing priorities may be changed.
+  id: 648
+  time: '2026-07-11T18:27:25.0000000+00:00'
