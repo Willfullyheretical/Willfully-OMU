@@ -4940,3 +4940,21 @@ Entries:
       message: 'Deathsquad gets a new shuttle: the Terminatus “Courier.”'
   id: 641
   time: '2026-07-11T17:46:23.0000000+00:00'
+- author: fish, NotActuallyMarty
+  changes:
+    - type: Fix
+      message: >-
+        Medically created clones and paradox clones now inherit a character's
+        roundstart traits.
+    - type: Tweak
+      message: Paradox clones will now copy held inhand items from the original.
+    - type: Fix
+      message: >-
+        Mantle beats vulps will now clone correctly from paradox clones (and be
+        able to use mantles)
+    - type: Fix
+      message: >-
+        Voice Barks now copy over properly when cloned, including paradox
+        clones.
+  id: 642
+  time: '2026-07-11T17:50:27.0000000+00:00'
