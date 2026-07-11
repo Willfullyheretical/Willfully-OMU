@@ -4972,3 +4972,9 @@ Entries:
       message: The Round End Summary now summarizes silicon lawsets!
   id: 644
   time: '2026-07-11T18:01:25.0000000+00:00'
+- author: feistyfedora
+  changes:
+    - type: Add
+      message: Ported content warning from Funky
+  id: 645
+  time: '2026-07-11T18:05:38.0000000+00:00'
