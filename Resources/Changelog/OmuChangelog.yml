@@ -4882,3 +4882,13 @@ Entries:
       message: Changed ling stings to now work with food/drink
   id: 633
   time: '2026-07-11T17:07:01.0000000+00:00'
+- author: Derg
+  changes:
+    - type: Tweak
+      message: >-
+        Bingle ghost roles no longer need to be requested and raffle time
+        shortened.
+    - type: Tweak
+      message: Bingle pit no longer takes structural damage.
+  id: 634
+  time: '2026-07-11T17:16:31.0000000+00:00'
