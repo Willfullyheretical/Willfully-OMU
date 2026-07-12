@@ -5021,3 +5021,9 @@ Entries:
       message: Crystal station post live test fixes.
   id: 651
   time: '2026-07-11T19:13:41.0000000+00:00'
+- author: Kazuno-dev
+  changes:
+    - type: Add
+      message: Russian accent is now available from the speech category
+  id: 652
+  time: '2026-07-12T02:10:42.0000000+00:00'
