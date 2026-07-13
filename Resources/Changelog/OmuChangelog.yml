@@ -5060,3 +5060,9 @@ Entries:
       message: The PTech restock crate is now a secure Command crate.
   id: 657
   time: '2026-07-13T14:14:58.0000000+00:00'
+- author: CliveOcelot
+  changes:
+    - type: Add
+      message: 'Ported the Ready manifest '
+  id: 658
+  time: '2026-07-13T22:13:38.0000000+00:00'
