@@ -5092,3 +5092,9 @@ Entries:
       message: Advanced biohazard pen now assists with Chimera Infection/cure
   id: 662
   time: '2026-07-18T17:37:59.0000000+00:00'
+- author: pinktanuki
+  changes:
+    - type: Fix
+      message: Fixed the name of the Cosmic Cult grid object
+  id: 663
+  time: '2026-07-18T17:39:33.0000000+00:00'
