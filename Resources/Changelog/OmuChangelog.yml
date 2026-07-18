@@ -5086,3 +5086,9 @@ Entries:
       message: 'Silk can now be stored in pockets. '
   id: 661
   time: '2026-07-18T17:37:11.0000000+00:00'
+- author: Aureu-K
+  changes:
+    - type: Tweak
+      message: Advanced biohazard pen now assists with Chimera Infection/cure
+  id: 662
+  time: '2026-07-18T17:37:59.0000000+00:00'
