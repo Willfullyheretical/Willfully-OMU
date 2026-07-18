@@ -5112,3 +5112,9 @@ Entries:
       message: Clean HUDs are a new researchable tool for Janitors.
   id: 665
   time: '2026-07-18T21:55:15.0000000+00:00'
+- author: harryhulse12-alt
+  changes:
+    - type: Fix
+      message: Fixed tilenol effect description
+  id: 666
+  time: '2026-07-18T22:44:02.0000000+00:00'
