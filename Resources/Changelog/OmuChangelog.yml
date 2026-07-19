@@ -5192,3 +5192,9 @@ Entries:
       message: Changed tranq shells to only contain 4 units of chloral hydrate
   id: 676
   time: '2026-07-19T17:10:18.0000000+00:00'
+- author: CliveOcelot
+  changes:
+    - type: Fix
+      message: 'Fixed unlisted chems from granting max energy to chem dispensers. '
+  id: 677
+  time: '2026-07-19T17:51:39.0000000+00:00'
