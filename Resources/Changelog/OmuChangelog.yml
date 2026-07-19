@@ -5150,3 +5150,9 @@ Entries:
         Syndiesuit that Nobody uses. (CSI-128X "Guānlián")
   id: 670
   time: '2026-07-19T14:34:32.0000000+00:00'
+- author: DuskTheSnep
+  changes:
+    - type: Tweak
+      message: Updated the Harpy Paramedic Hardsuit to match the rest of the sprites.
+  id: 671
+  time: '2026-07-19T14:35:13.0000000+00:00'
