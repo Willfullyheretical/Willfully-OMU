@@ -5253,3 +5253,16 @@ Entries:
       message: Bananium ore crabs are no longer uninteractable.
   id: 685
   time: '2026-07-20T10:48:33.0000000+00:00'
+- author: archee1
+  changes:
+    - type: Tweak
+      message: >-
+        PTLs are slightly smaller than they were before and weigh a more
+        sensible amount for their size with their fired laser being more
+        destructive.
+    - type: Tweak
+      message: >-
+        PTLs no longer gain price as their battery fills up and instead have a
+        static price.
+  id: 686
+  time: '2026-07-20T10:49:02.0000000+00:00'
