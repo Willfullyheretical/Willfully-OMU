@@ -5247,3 +5247,9 @@ Entries:
       message: 'Uplink PKA pressure upgrade to Shaft Miner syndie catalog '
   id: 684
   time: '2026-07-20T10:43:46.0000000+00:00'
+- author: ishkab
+  changes:
+    - type: Fix
+      message: Bananium ore crabs are no longer uninteractable.
+  id: 685
+  time: '2026-07-20T10:48:33.0000000+00:00'
