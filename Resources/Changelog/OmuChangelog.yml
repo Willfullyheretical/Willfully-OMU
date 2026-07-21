@@ -5321,3 +5321,13 @@ Entries:
       message: 'Hydroponics specific Smartfridge for mappers  '
   id: 692
   time: '2026-07-21T14:58:13.0000000+00:00'
+- author: DuskTheSnep
+  changes:
+    - type: Tweak
+      message: Infested robotics with 217% more bugborgs.
+    - type: Add
+      message: All new bug sprites for Medical and Janitor borgs.
+    - type: Add
+      message: Extra bug sprites for Generic, Engineering, and Salvage borgs.
+  id: 693
+  time: '2026-07-21T19:28:26.0000000+00:00'
