@@ -5307,3 +5307,17 @@ Entries:
       message: Station AI now starts on Crewsimov to stop it from vaildhunting so much.
   id: 691
   time: '2026-07-21T00:20:07.0000000+00:00'
+- author: pinktanuki
+  changes:
+    - type: Tweak
+      message: Smartfridge can now delete empty list items
+    - type: Tweak
+      message: 'Smartfridge now has configurable access controls '
+    - type: Tweak
+      message: 'Smartfridge has a tiny internal battery in the event of powerloss '
+    - type: Add
+      message: 'Smartfridge can now be made via a machine board '
+    - type: Add
+      message: 'Hydroponics specific Smartfridge for mappers  '
+  id: 692
+  time: '2026-07-21T14:58:13.0000000+00:00'
