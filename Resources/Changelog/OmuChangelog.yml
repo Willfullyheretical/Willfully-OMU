@@ -5337,3 +5337,13 @@ Entries:
       message: Combat Gloves can now be ordered from cargo for 5.5k.
   id: 694
   time: '2026-07-22T23:18:51.0000000+00:00'
+- author: archee1
+  changes:
+    - type: Fix
+      message: Ballistic shields now display in hand.
+    - type: Fix
+      message: >-
+        Armor vests no longer only appear in your right hand when held as an
+        item.
+  id: 695
+  time: '2026-07-22T23:37:30.0000000+00:00'
