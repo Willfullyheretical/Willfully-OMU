@@ -5331,3 +5331,9 @@ Entries:
       message: Extra bug sprites for Generic, Engineering, and Salvage borgs.
   id: 693
   time: '2026-07-21T19:28:26.0000000+00:00'
+- author: jckspjf
+  changes:
+    - type: Add
+      message: Combat Gloves can now be ordered from cargo for 5.5k.
+  id: 694
+  time: '2026-07-22T23:18:51.0000000+00:00'
